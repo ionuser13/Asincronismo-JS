@@ -11,5 +11,8 @@
     "JavaScript"
   ],
   "author": "John Chacpi johnchacpi479@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
